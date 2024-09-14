@@ -1,5 +1,5 @@
 ## Overview
-In this repository, uisng path integral controller, we solve a continuous-time risk-minimizing two-player zero-sum stochastic differential game, in which each player aims to minimize its probability of failure (i.e., the event that the state of the game enters into predefined undesirable domains).
+In this repository, using path integral controller, we solve a continuous-time risk-minimizing two-player zero-sum stochastic differential game, in which each player aims to minimize its probability of failure (i.e., the event that the state of the game enters into predefined undesirable domains).
 For more details, checkout the [paper](https://ieeexplore.ieee.org/abstract/document/10383399).
 ## Citation
 If you found this work useful, please cite the below paper,
